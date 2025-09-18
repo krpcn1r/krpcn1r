@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет, я Степан! 👋
 
-<!--
-**krpcn1r/krpcn1r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## О себе
+- 🎓 Студент МГК "Цифровых технологий"
+- 💻 Изучаю пiтон, с++, джаваскрiпт
+- 🌱 Сейчас я работаю над улучшением своих навыков в Git и GitHub
 
-Here are some ideas to get you started:
+## Мои навыки
+- Python
+- Git
+- [Другие технологии, которые вы знаете]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Связаться со мной
+- t.me/krpcn1r
+- zaystep09@gmail.com
